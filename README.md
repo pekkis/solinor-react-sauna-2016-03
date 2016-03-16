@@ -1,7 +1,7 @@
 Solinor React Sauna
 ====================
 
-This is a fork from [React Broilerp√late Project](git@github.com:pekkis/react-broilerplate-project). Use it, not this,
+This is a fork from [React Broilerplate Project](https://github.com/pekkis/react-broilerplate-project). Use it, not this,
 if you gonna vampirize stuff.
 
 Use as you wish, but still read the license from LICENSE.
