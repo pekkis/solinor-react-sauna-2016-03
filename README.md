@@ -1,20 +1,15 @@
-React broilerplate example project (Trollo)
-============================================
+Solinor React Sauna
+====================
 
-React broilerplate consists stuff that I use and vampirize to start new projects.
-Maintaining it seems to be a full-time job. Thanks, Obama!
-
-This is an example starter project utilizing the stuff I now put in NPM.
-
-Pull requests are accepted. If you vampirize this, vampirize something back
-please! :D
+This is a fork from [React Broilerp√late Project](git@github.com:pekkis/react-broilerplate-project). Use it, not this,
+if you gonna vampirize stuff.
 
 Use as you wish, but still read the license from LICENSE.
 
 Requirements
 -------------
 
-- A relatively new Node.js. I'm running 5.x nowadays. Nobody really knows.
+- A relatively new Node.js. I'm running 5.x nowadays. Nobody really knows. Just use a new one.
 
 Stack
 ------
