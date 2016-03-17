@@ -10,6 +10,8 @@ Requirements
 -------------
 
 - A relatively new Node.js. I'm running 5.x nowadays. Nobody really knows. Just use a new one.
+- AND MAKE SURE YOU HAVE 3.x version of NPM, don't think my broilerplates work with 2.x. Thanks Koistinen!
+- Use homebrew (brew install node) for example if you have a Mac, or Node's own repos if you have a common Linux distro.
 
 Stack
 ------
