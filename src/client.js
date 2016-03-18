@@ -1,4 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import TodoApp from './components/TodoApp';
 
-console.log('All your base are belong to us');
+ReactDOM.render(
+    <TodoApp />,
+    document.getElementById('app')
+);
